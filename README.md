@@ -22,7 +22,7 @@ Follow these steps to set up the chatbot locally:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/law-chatbot
+git clone https://github.com/shivanshu099/law_chatbot
 cd law-chatbot
 
 
