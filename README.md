@@ -76,6 +76,15 @@ You can ask things like:
 
 ###  ------------screenshot----------------
 
+![App Screenshot](https://github.com/shivanshu099/law_chatbot/blob/main/sc_1.png)
+
+![App Screenshot](https://github.com/shivanshu099/law_chatbot/blob/main/sc_2.png)
+
+![App Screenshot](https://github.com/shivanshu099/law_chatbot/blob/main/sc_3.png)
+
+
+
+
 
 
 
