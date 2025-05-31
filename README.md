@@ -61,7 +61,7 @@ You can ask things like:
 ###🧠 File Structure
 
 ```
-.
+
 ├── main.py              # Streamlit app interface
 ├── llm.py               # vector_search() logic using Groq + RAG
 ├── requirements.txt     # Python dependencies
