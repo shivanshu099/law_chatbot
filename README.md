@@ -58,6 +58,8 @@ You can ask things like:
 
 "Difference between civil and criminal law?"
 
+```
+
 ###🧠 File Structure
 
 ```
